@@ -1,0 +1,19 @@
+.content {
+    margin-top: 60px;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    margin-left: 30%;
+}
+
+.content-tittle {
+    font-size: 35px;
+    font-weight: 700;
+}
+
+.content-footer {
+    font-size: 20px;
+    color: rgb(52, 85, 169);
+    font-weight: 700;
+    margin-bottom: 100px;
+}
